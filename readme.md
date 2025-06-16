@@ -17,11 +17,11 @@
 <img src="docs/img/Search Fragment.png" alt="Search Fragment" width="200"/>
 <img src="docs/img/Search Fragment With Query.png" alt="Search Fragment With Query" width="200"/>
 <img src="docs/img/Trending Fragment.png" alt="Trending Fragment" width="200"/>
+</div>
+
 ![Sign In Screen](docs/img/Screenshot%20from%202025-03-31%2018-13-20.png)
 ![Sign Up Screen](docs/img/Screenshot%20from%202025-03-31%2018-13-23.png)
 ![User Profile](docs/img/Screenshot%20from%202025-03-31%2018-13-35.png)
-
-</div>
 
 ---
 
