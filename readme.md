@@ -1,3 +1,30 @@
+# Find Your Recipe - Kotlin Mobile Application
+
+## Backend Architecture & Infrastructure
+
+### Backend Containers Running
+![Backend Containers Running](docs/Backend%20Containers%20Running.png)
+
+### Backend Schema with Progress Tracking
+![Backend Schema with Progress Marked](docs/Backend%20Schema%20with%20progress%20marked.png)
+
+### All Application Screenshots
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+![Discover Fragment](docs/img/Discover%20Fragment.png)
+![Loading Screens](docs/img/Loading%20Screens.png)
+![Recipe Detail Activity](docs/img/Recipe%20Detail%20Activity.png)
+![Search Fragment](docs/img/Search%20Fragment.png)
+![Search Fragment With Query](docs/img/Search%20Fragment%20With%20Query.png)
+![Trending Fragment](docs/img/Trending%20Fragment.png)
+![Sign In Screen](docs/img/Screenshot%20from%202025-03-31%2018-13-20.png)
+![Sign Up Screen](docs/img/Screenshot%20from%202025-03-31%2018-13-23.png)
+![User Profile](docs/img/Screenshot%20from%202025-03-31%2018-13-35.png)
+
+</div>
+
+---
+
 # Checkpoint 3: Installing, Debugging, Profiling, Application Lifecycle Management, and Logging
 
 __Date of Submission:__ February 21, 2025
