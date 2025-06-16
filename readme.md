@@ -11,12 +11,12 @@
 ### All Application Screenshots
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-![Discover Fragment](docs/img/Discover%20Fragment.png)
-![Loading Screens](docs/img/Loading%20Screens.png)
-![Recipe Detail Activity](docs/img/Recipe%20Detail%20Activity.png)
-![Search Fragment](docs/img/Search%20Fragment.png)
-![Search Fragment With Query](docs/img/Search%20Fragment%20With%20Query.png)
-![Trending Fragment](docs/img/Trending%20Fragment.png)
+<img src="docs/img/Discover Fragment.png" alt="Discover Fragment" width="200"/>
+<img src="docs/img/Loading Screens.png" alt="Loading Screens" width="200"/>
+<img src="docs/img/Recipe Detail Activity.png" alt="Recipe Detail Activity" width="200"/>
+<img src="docs/img/Search Fragment.png" alt="Search Fragment" width="200"/>
+<img src="docs/img/Search Fragment With Query.png" alt="Search Fragment With Query" width="200"/>
+<img src="docs/img/Trending Fragment.png" alt="Trending Fragment" width="200"/>
 ![Sign In Screen](docs/img/Screenshot%20from%202025-03-31%2018-13-20.png)
 ![Sign Up Screen](docs/img/Screenshot%20from%202025-03-31%2018-13-23.png)
 ![User Profile](docs/img/Screenshot%20from%202025-03-31%2018-13-35.png)
