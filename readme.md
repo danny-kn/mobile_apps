@@ -17,6 +17,9 @@
 <img src="docs/img/Search Fragment.png" alt="Search Fragment" width="200"/>
 <img src="docs/img/Search Fragment With Query.png" alt="Search Fragment With Query" width="200"/>
 <img src="docs/img/Trending Fragment.png" alt="Trending Fragment" width="200"/>
+<img src="docs/img/Screenshot from 2025-03-31 18-13-20.png" alt="Sign In Screen" width="300"/>
+<img src="docs/img/Screenshot from 2025-03-31 18-13-23.png" alt="Sign Up Screen" width="300"/>
+<img src="docs/img/Screenshot from 2025-03-31 18-13-35.png" alt="User Profile" width="300"/>
 </div>
 
 ![Sign In Screen](docs/img/Screenshot%20from%202025-03-31%2018-13-20.png)
