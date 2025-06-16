@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- https://stackoverflow.com/questions/78918314/http-calls-blocked-in-android-release-build-from-play-store-but-work-fine-in-de -->
+<network-security-config>
+</network-security-config>
+
+

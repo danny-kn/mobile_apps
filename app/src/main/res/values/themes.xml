@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MobileApplication" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorPrimaryLightMode</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariantLightMode</item>
+        <item name="colorOnPrimary">@color/colorSecondaryLightMode</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/colorSecondaryLightMode</item>
+        <item name="colorSecondaryVariant">@color/colorSecondaryLightMode</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:textColor">@color/black</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.MobileApplication.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.MobileApplication.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="Theme.MobileApplication.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
