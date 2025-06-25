@@ -3,12 +3,15 @@
 ## Backend Architecture & Infrastructure
 
 ### Backend Containers Running
+
 ![Backend Containers Running](docs/Backend%20Containers%20Running.png)
 
 ### Backend Schema with Progress Tracking
-![Backend Schema with Progress Marked](docs/Backend%20Schema%20with%20progress%20marked.png)
+
+![Backend Schema with Progress Marked](docs/backend.png)
 
 ### All Application Screenshots
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
 <img src="docs/img/Discover Fragment.png" alt="Discover Fragment" width="200"/>
@@ -35,6 +38,7 @@
 __Date of Submission:__ February 21, 2025
 
 This checkpoint involves demonstrating your ability to do the following:
+
 - Install your application on a device.
 - Debug your application (e.g., step through code and set breakpoints).
 - Profile your application using one or more profilers (e.g., Android Studio's CPU or memory profilers, or Instruments for iOS).
@@ -58,6 +62,7 @@ __What to Submit:__
 - Also, show the grader your teamwork contribution writing.
 
 __Evaluation Criteria:__
+
 - Students show that they understand how to use the IDE.
 - Students demonstrate comprehension of the application lifecycle in Android or iOS.
 - Students' teamwork contributions (explained above).
@@ -88,6 +93,7 @@ __What to Submit:__
 - __Via Carmen: Teamwork Contribution (2/10 points):__ Each team member should submit a short paragraph via Carmen describing how everyone in the team worked during the project for this checkpoint. No one likes working with "slackers" who do little work, leaving the entire project to the remaining team members. If the grader or the instructor determine, in their professional opinions, that certain team members are not contributing fairly, they reserve the right to deduct some or all of the Teamwork Contribution points for these team members. Your paragraph will help the grader and instructor make their decisions. (This ___need not___ be a fancy Word or PDF document; a few sentences suffice.) If everyone on the team contributes equally, then all team members will receive these points.
 
 __Show to Grader:__
+
 - Your application’s data storage schema (as described previously).
 - Your application’s ability to perform creation, retrieval, updates, and deletions (CRUD) with your data store (an on-device relational database or an external service such as Firebase).
 - The version control repository for your application.
@@ -95,6 +101,7 @@ __Show to Grader:__
 - Your teamwork contribution writing (or few sentences).
 
 __Evaluation Criteria:__
+
 - Students demonstrate implementation of their application’s data storage schemata (using a relational database or NoSQL data store).
 - Students demonstrate that their app can perform CRUD operations on stored data.
 - Students demonstrate use of a version control system.
@@ -118,6 +125,7 @@ __What to Submit:__
 - __Via Carmen: Teamwork Contribution (4/20 points):__ Each team member should submit a short paragraph via Carmen describing how everyone in the team worked during the project for this checkpoint. No one likes working with "slackers" who do little work, leaving the entire project to the remaining team members. If the grader or the instructor determine, in their professional opinions, that certain team members are not contributing fairly, they reserve the right to deduct some or all of the Teamwork Contribution points for these team members. Your paragraph will help the grader and instructor make their decisions. (This __need not__ be a fancy Word or PDF document; a few sentences suffice.) If everyone on the team contributes equally, then all team members will receive these points.
 
 __Show to Grader:__
+
 - Your application working on a __real mobile device__. (If it works only on an emulator, you will only receive partial credit).
 - Your teamwork contribution writing (just a few sentences).
 
